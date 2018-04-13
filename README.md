@@ -1,0 +1,2 @@
+# AutoMailSender
+テストのためのアプリケーション
